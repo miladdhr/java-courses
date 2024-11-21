@@ -1,0 +1,32 @@
+{
+  "account": {
+    "name": "TRANSACTION ACOUNT",
+    "balance": 1500000,
+    "transactions": [
+      {
+        "fromAccount": "7210112780379945",
+        "toAccount": "987654321",
+        "amount": 200000,
+        "description": "Payment to Jane Smith"
+      },
+      {
+        "fromAccount": ""7210112780379945",
+        "toAccount": "1122334455",
+        "amount": 100000,
+        "description": "Electric bill payment"
+      },
+      {
+        "fromAccount": ""7210112780379945",
+        "toAccount": "5566778899",
+        "amount": 50000,
+        "description": "Grocery shopping"
+      },
+      {
+        "fromAccount": ""7210112780379945",
+        "toAccount": "123123123",
+        "amount": 500000,
+        "description": "Airplane Ticket"
+      }
+    ]
+  }
+}
